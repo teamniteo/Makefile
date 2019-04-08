@@ -43,7 +43,7 @@
     -   id: codespell
         name: Check Spelling
         description: Checks for common misspellings in text files.
-        entry: pipenv run codespell
+        entry: pipenv run codespell --ignore-words .aspell.en.pws
         language: system
         types: [non-executable, file, text]
         exclude_types: [svg]
