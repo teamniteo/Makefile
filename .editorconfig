@@ -1,7 +1,7 @@
 # http://editorconfig.org
 
 # A special property that should be specified at the top of the file outside of
-# any sections. Set to true to stop .editor config file search on current file
+# any sections. Set to true to stop .editorconfig file search on current file
 root = true
 
 [*]
@@ -33,7 +33,7 @@ insert_final_newline = true
 [*.py]
 indent_size = 4
 
-# Tab indentation (no size specified)
+# Tab indentation
 [Makefile]
 indent_style = tab
 indent_size = 4
