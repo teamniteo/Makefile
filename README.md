@@ -1,3 +1,8 @@
+# Deprecated, use `pyramid-realworld-example-app` instead
+
+This Makefile was always out-of-date because it was impossible to test it. These days, we maintain a "best practice" showcase of a Python app at https://github.com/niteoweb/pyramid-realworld-example-app/ and that repo has a fully functional [Makefile](https://github.com/niteoweb/pyramid-realworld-example-app/blob/master/Makefile) built according to the specs below.
+
+
 # Makefile
 We use Makefiles for all our projects to have a memorable way to install and run them, while allowing discovering of advanced commands.
 
